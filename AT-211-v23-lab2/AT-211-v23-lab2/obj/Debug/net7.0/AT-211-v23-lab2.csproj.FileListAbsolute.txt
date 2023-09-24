@@ -1,0 +1,14 @@
+C:\Users\SIRIUS\Desktop\AT-211-v23-lab2\AT-211-v23-lab2\bin\Debug\net7.0\AT-211-v23-lab2.exe
+C:\Users\SIRIUS\Desktop\AT-211-v23-lab2\AT-211-v23-lab2\bin\Debug\net7.0\AT-211-v23-lab2.deps.json
+C:\Users\SIRIUS\Desktop\AT-211-v23-lab2\AT-211-v23-lab2\bin\Debug\net7.0\AT-211-v23-lab2.runtimeconfig.json
+C:\Users\SIRIUS\Desktop\AT-211-v23-lab2\AT-211-v23-lab2\bin\Debug\net7.0\AT-211-v23-lab2.dll
+C:\Users\SIRIUS\Desktop\AT-211-v23-lab2\AT-211-v23-lab2\bin\Debug\net7.0\AT-211-v23-lab2.pdb
+C:\Users\SIRIUS\Desktop\AT-211-v23-lab2\AT-211-v23-lab2\obj\Debug\net7.0\AT-211-v23-lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIRIUS\Desktop\AT-211-v23-lab2\AT-211-v23-lab2\obj\Debug\net7.0\AT-211-v23-lab2.AssemblyInfoInputs.cache
+C:\Users\SIRIUS\Desktop\AT-211-v23-lab2\AT-211-v23-lab2\obj\Debug\net7.0\AT-211-v23-lab2.AssemblyInfo.cs
+C:\Users\SIRIUS\Desktop\AT-211-v23-lab2\AT-211-v23-lab2\obj\Debug\net7.0\AT-211-v23-lab2.csproj.CoreCompileInputs.cache
+C:\Users\SIRIUS\Desktop\AT-211-v23-lab2\AT-211-v23-lab2\obj\Debug\net7.0\AT-211-v23-lab2.dll
+C:\Users\SIRIUS\Desktop\AT-211-v23-lab2\AT-211-v23-lab2\obj\Debug\net7.0\refint\AT-211-v23-lab2.dll
+C:\Users\SIRIUS\Desktop\AT-211-v23-lab2\AT-211-v23-lab2\obj\Debug\net7.0\AT-211-v23-lab2.pdb
+C:\Users\SIRIUS\Desktop\AT-211-v23-lab2\AT-211-v23-lab2\obj\Debug\net7.0\AT-211-v23-lab2.genruntimeconfig.cache
+C:\Users\SIRIUS\Desktop\AT-211-v23-lab2\AT-211-v23-lab2\obj\Debug\net7.0\ref\AT-211-v23-lab2.dll
